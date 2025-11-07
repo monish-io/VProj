@@ -1,0 +1,7 @@
+//You have to change the FIQ_Handler addr to the FIQ interrupt addr
+//In this case, "eint0_fiq"
+FIQ_Addr        DCD     eint0_fiq
+
+//and import addr after the import given in the prog;
+
+IMPORT eint0_fiq
