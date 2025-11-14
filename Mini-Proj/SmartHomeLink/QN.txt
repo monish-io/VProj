@@ -1,0 +1,8 @@
+Project 3:
+	ARM 7 based SmartHome link - Dual mode Home automation system
+
+[Bluetooth (HC-05), LDR, DC motor, Switch, relay] for bluetooth use Serial Hyperterminal app
+
+->Control home appliances (light, fan) using Ble.
+
+->LDR can auto turn on lights in dark conditions
